@@ -2,7 +2,7 @@ function generatePoem(event) {
   event.preventDefault();
 
 new Typewriter("#poem", {
-  strings: ["ce n'est pas un poème"],
+  strings: ["Let's generate a ceasefire instead!"],
   autoStart: true,
 });
 
